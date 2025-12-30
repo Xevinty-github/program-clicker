@@ -5,6 +5,11 @@ Clicker game about making programs, and then upgrading your empire to rival the 
 
 ## Changelog
 
+### 1.00.006
+
+#### Fixes
+- Attempt to fix version number display
+
 ### 1.00.005
 
 #### Changes
