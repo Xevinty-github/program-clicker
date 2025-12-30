@@ -23,3 +23,7 @@ body {
 .brackets {
     color:gold;
 }
+
+.version-number {
+    top: 90%;
+}
