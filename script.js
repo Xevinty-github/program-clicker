@@ -1,6 +1,9 @@
 let lines_counter = 0;
 const lines_counter_reference = document.getElementById("lines-counter");
 const version_number = "1.00.004"; // change x.y.z(s) to x.yy(.zzz)
+const version_number_reference = document.getElementById("version-number");
+
+version_number_reference.innerHTML = version_number
 
 function IncreaseMain() {
     lines_counter += 1;
