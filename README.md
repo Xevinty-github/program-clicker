@@ -5,6 +5,11 @@ Clicker game about making programs, and then upgrading your empire to rival the 
 
 ## Changelog
 
+### 0.1.2a
+
+#### Changes
+- Added version number constant to script.js
+
 ### 0.1.1a
 
 #### Changes
