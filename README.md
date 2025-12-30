@@ -5,6 +5,12 @@ Clicker game about making programs, and then upgrading your empire to rival the 
 
 ## Changelog
 
+### 1.00.004
+
+#### Changes
+- Switched from x.y.z(s) to x.yy(.zzz) versioning scheme
+- Version number is displayed
+
 ### 0.1.2a
 
 #### Changes
