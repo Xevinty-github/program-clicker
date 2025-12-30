@@ -1,5 +1,6 @@
 let lines_counter = 0;
 const lines_counter_reference = document.getElementById("lines-counter");
+const version_number = "0.1.2a";
 
 function IncreaseMain() {
     lines_counter += 1;
