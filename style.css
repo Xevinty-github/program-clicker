@@ -2,6 +2,7 @@ body {
     background-color: darkslategray;
     color:antiquewhite;
     font-family: 'Courier New', Courier, monospace;
+    height: 100%; /* hopefully this fixes the version number display so its at the bottom of the page */
 }
 
 .program-button {
