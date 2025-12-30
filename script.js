@@ -1,9 +1,9 @@
 let lines_counter = 0;
 const lines_counter_reference = document.getElementById("lines-counter");
-const version_number = "1.00.007";
+const version_number = "1.00.008"; // changes in css
 const version_number_reference = document.getElementById("version-number");
 
-version_number_reference.innerHTML = version_number; // fixed this in the html file
+version_number_reference.innerHTML = version_number;
 
 function IncreaseMain() {
     lines_counter += 1;
